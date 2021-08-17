@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971251652517",
+    "project_id": "note-p0105",
+    "storage_bucket": "note-p0105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971251652517:android:02436944fcc2c2dc527a4c",
+        "android_client_info": {
+          "package_name": "com.pansgami.note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971251652517-ienlqsns8bgstr3osh3591khdtn8t79o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwaqJ8jAPa6lejdzK-yGOZDFiQtHKzUes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971251652517-ienlqsns8bgstr3osh3591khdtn8t79o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

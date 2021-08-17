@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Note</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="enter_the_title">Enter the Title</string>
+
+    <string name="login">LogIN</string>
+    <string name="don_t_have_an_account_signup_now">Don\'t have an account ? Signup Now!</string>
+    <string name="join_us">Join Us!</string>
+    <string name="start_taking_notes_today">Start taking notes, today!</string>
+    <string name="please_enter_email">Please Enter Email</string>
+    <string name="please_enter_password">Please Enter Password</string>
+    <string name="please_enter_password_again">Please Enter Password Again</string>
+    <string name="signup">SIGNUP</string>
+    <string name="please_enter_your_name">Please Enter Your Name</string>
+
+    <string name="one_step_to_sign_up">One step to Sign Up!</string>
+    <string name="welcome_screen">welcome screen</string>
+    <string name="please_enter_old_email">Please Enter Old Email</string>
+    <string name="please_enter_new_email">Please Enter New Email</string>
+    <string name="please_enter_new_email_again">Please Enter New Email Again</string>
+    <string name="update">update</string>
+    <string name="welcome">Welcome!</string>
+    <string name="update_email">Update Email!</string>
+    <string name="please_enter_new_password">Please Enter New Password</string>
+    <string name="please_enter_old_password">Please Enter Old Password</string>
+    <string name="please_enter_new_password_again">Please Enter New Password Again</string>
+
+
+    <string name="update_password_and_make_account_more_secure">Update password and make account more secure!</string>
+    <string name="update_password">Update Password</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="log_out">Log out</string>
+    <string name="enter_the_your_note">Enter the your note</string>
+    <string name="add_your_note">Add your note!</string>
+    <string name="add">Add</string>
+</resources>

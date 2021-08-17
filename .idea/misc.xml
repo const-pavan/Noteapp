@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/test/Note/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/test/Note/app/src/main/res/drawable/ic_baseline_done_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/test/Note/app/src/main/res/layout/activity_create_note.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/test/Note/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/test/Note/app/src/main/res/layout/activity_main.xml" value="0.21634615384615385" />
+        <entry key="..\:/Users/test/Note/app/src/main/res/layout/activity_sing_upactivity.xml" value="0.22644927536231885" />
+        <entry key="..\:/Users/test/Note/app/src/main/res/layout/activity_splash.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/test/Note/app/src/main/res/layout/activity_update_email.xml" value="0.2" />
+        <entry key="..\:/Users/test/Note/app/src/main/res/layout/activity_update_password.xml" value="0.2223731884057971" />
+        <entry key="..\:/Users/test/Note/app/src/main/res/layout/activity_user_account.xml" value="0.22644927536231885" />
+        <entry key="..\:/Users/test/Note/app/src/main/res/layout/activity_web.xml" value="0.1693840579710145" />
+        <entry key="..\:/Users/test/Note/app/src/main/res/layout/note_card.xml" value="0.2" />
+        <entry key="..\:/Users/test/Note/app/src/main/res/menu/home_menu.xml" value="0.25" />
+        <entry key="..\:/Users/test/Note/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/test/Note/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.26614583333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
